@@ -63,8 +63,8 @@ NB : The entirety of the code defining rotation is based on quaternions properti
 
 To compile the program :
 - use a C compiler like `gcc`.
-- modify the `Makefile` if needed
-- run the following commands
+- modify the `Makefile` if needed.
+- run the following commands.
 
 ```
 make
